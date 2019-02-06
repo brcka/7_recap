@@ -2,8 +2,16 @@ header {
     text-align: center;
 }
 
-.jumbotron {
+.jumbotron { /* # 2 */
     padding: 10rem 2rem;
     background-color: red;
+}
+
+ #jt { /* # 1 */
+    background-color: blue;
+}
+
+header {
+
 }
 
